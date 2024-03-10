@@ -1,0 +1,27 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Basic layout components:",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/layout-emotions/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "getStartedSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/layout-emotions/docs/getting-started"
+  },
+  "next": {
+    "title": "Basics",
+    "permalink": "/layout-emotions/docs/category/basics"
+  }
+}

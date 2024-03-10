@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basics/columns",
+  "id": "basics/columns",
+  "title": "Columns",
+  "description": "Entire available screen width is divided into 12 equal sections.",
+  "source": "@site/docs/basics/columns.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/columns",
+  "permalink": "/layout-emotions/docs/basics/columns",
+  "draft": false,
+  "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/basics/columns.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "getStartedSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/layout-emotions/docs/category/basics"
+  },
+  "next": {
+    "title": "Breakpoints",
+    "permalink": "/layout-emotions/docs/basics/breakpoints"
+  }
+}

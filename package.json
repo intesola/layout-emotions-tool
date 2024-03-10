@@ -1,0 +1,36 @@
+{
+  "name": "layout-emotions-tool",
+  "version": "1.0.0",
+  "description": "Collection of layout emotion components",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsup --dts",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intesola/layout-emotions-tool.git"
+  },
+  "keywords": [
+    "layout-components",
+    "react",
+    "components"
+  ],
+  "author": "intesola",
+  "license": "ISC",
+  "homepage": "https://github.com/intesola/layout-emotions-tool.git",
+  "dependencies": {
+    "@emotion/styled": "^11.10.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "tsup": "^6.6.3",
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}

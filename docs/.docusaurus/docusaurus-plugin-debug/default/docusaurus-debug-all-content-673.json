@@ -1,0 +1,226 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/layout-emotions/docs",
+          "tagsPath": "/layout-emotions/docs/tags",
+          "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs",
+          "editUrlLocalized": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/manojadams/projects/@manojadams/layout-emotions/docs/sidebars.js",
+          "contentPath": "/Users/manojadams/projects/@manojadams/layout-emotions/docs/docs",
+          "contentPathLocalized": "/Users/manojadams/projects/@manojadams/layout-emotions/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "basics/breakpoints",
+              "id": "basics/breakpoints",
+              "title": "Breakpoints",
+              "description": "These are the available breakpoints used for responsive behavior.",
+              "source": "@site/docs/basics/breakpoints.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/breakpoints",
+              "permalink": "/layout-emotions/docs/basics/breakpoints",
+              "draft": false,
+              "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/basics/breakpoints.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "getStartedSidebar",
+              "previous": {
+                "title": "Basics",
+                "permalink": "/layout-emotions/docs/category/basics"
+              },
+              "next": {
+                "title": "Columns using component",
+                "permalink": "/layout-emotions/docs/basics/columns-using-component"
+              }
+            },
+            {
+              "unversionedId": "basics/columns-using-classname",
+              "id": "basics/columns-using-classname",
+              "title": "Columns using classname",
+              "description": "Entire available screen width is divided into 12 equal sections.",
+              "source": "@site/docs/basics/columns-using-classname.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/columns-using-classname",
+              "permalink": "/layout-emotions/docs/basics/columns-using-classname",
+              "draft": false,
+              "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/basics/columns-using-classname.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "getStartedSidebar",
+              "previous": {
+                "title": "Columns using component",
+                "permalink": "/layout-emotions/docs/basics/columns-using-component"
+              }
+            },
+            {
+              "unversionedId": "basics/columns-using-component",
+              "id": "basics/columns-using-component",
+              "title": "Columns using component",
+              "description": "Properties of column component",
+              "source": "@site/docs/basics/columns-using-component.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/columns-using-component",
+              "permalink": "/layout-emotions/docs/basics/columns-using-component",
+              "draft": false,
+              "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/basics/columns-using-component.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "getStartedSidebar",
+              "previous": {
+                "title": "Breakpoints",
+                "permalink": "/layout-emotions/docs/basics/breakpoints"
+              },
+              "next": {
+                "title": "Columns using classname",
+                "permalink": "/layout-emotions/docs/basics/columns-using-classname"
+              }
+            },
+            {
+              "unversionedId": "getting-started",
+              "id": "getting-started",
+              "title": "Getting started",
+              "description": "A very small library of styled components for layouting.",
+              "source": "@site/docs/getting-started.md",
+              "sourceDirName": ".",
+              "slug": "/getting-started",
+              "permalink": "/layout-emotions/docs/getting-started",
+              "draft": false,
+              "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/getting-started.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "getStartedSidebar",
+              "next": {
+                "title": "Introduction",
+                "permalink": "/layout-emotions/docs/intro"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Basic layout components:",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/layout-emotions/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "getStartedSidebar",
+              "previous": {
+                "title": "Getting started",
+                "permalink": "/layout-emotions/docs/getting-started"
+              },
+              "next": {
+                "title": "Basics",
+                "permalink": "/layout-emotions/docs/category/basics"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "getStartedSidebar": [
+              {
+                "type": "doc",
+                "id": "getting-started"
+              },
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "basics/breakpoints"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/columns-using-component"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/columns-using-classname"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Choose a section to continue",
+                  "slug": "/category/basics",
+                  "permalink": "/layout-emotions/docs/category/basics"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/layout-emotions/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/layout-emotions/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/layout-emotions/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
